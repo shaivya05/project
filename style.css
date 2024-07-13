@@ -87,5 +87,64 @@ img{
     .desc{
         font-size: 17px;
     }
+   .container .row .col img{
+     display: block;
+     margin:0 auto;
+     width:250px;
+     margin-top: 20px;
+     
+   }
+   .container .row .col h1,p,h2{
+        
+    text-align: center;
+
+   }
+   .container{
+    padding:0 20px;
+   }
+   .container .row .col a{
+   display: block;
+   width:200px;
+   margin:0 auto;
+}
+
+}
+.container .row .col img{
+    max-width:450px;
+    
+}
+.container{
+    padding:180px 20px;
    
+}
+.container .row .col h1{
+font-family: Playfair Display;
+font-size: 64px;
+font-weight: 700;
+line-height: 85px;
+/* text-align: left; */
+
+}
+.container .row .col h2{
+    font-family: Poppins;
+font-size: 18px;
+font-weight: 700;
+line-height: 27px;
+
+
+}
+.container .row .col p{ 
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 30px;
+text-align: left;}
+.container .row .col a{
+    padding: 14px 24px;
+    border-radius: 5px;
+    color: white;
+    font-family:"Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
 }
