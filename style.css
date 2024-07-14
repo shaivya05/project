@@ -140,7 +140,7 @@ img {
   margin-top: 50px;
 }
 .about .container {
-  padding: 180px 20px;
+  padding: 40px 20px;
 }
 .about .container .row .col h1 {
   font-family: Playfair Display;
@@ -200,9 +200,10 @@ img {
   line-height: 21px;
   text-align: center;
 }
-/* .contact{
-  margin:250px;
-} */
+.contact{
+  margin:100px 200px;
+}
+
 .contact h1 {
   font-family: Playfair Display;
   font-size: 80px;
